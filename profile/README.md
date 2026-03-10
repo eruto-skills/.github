@@ -7,7 +7,7 @@ Open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-c
 | Skill | Description |
 |-|-|
 | [research-note](https://github.com/eruto-skills/research-note) | Research any topic and generate footnoted Markdown notes with source quality assessment and Mermaid mindmaps |
-| marp | *(coming soon)* Create, edit, and manage Marp (Markdown) presentation slides |
+| [marp](https://github.com/eruto-skills/marp) | Create, edit, and manage Marp (Markdown) presentation slides with layout patterns, theme design, and quality assurance |
 
 ## Installation
 
