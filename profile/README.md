@@ -8,14 +8,14 @@ Open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-c
 |-|-|
 | [research-note](https://github.com/eruto-skills/research-note) | Research any topic and generate footnoted Markdown notes with source quality assessment and Mermaid mindmaps |
 | [marp](https://github.com/eruto-skills/marp) | Create, edit, and manage Marp (Markdown) presentation slides with layout patterns, theme design, and quality assurance |
+| [nanj-thread](https://github.com/eruto-skills/nanj-thread) | Generate なんJ-style anonymous threads where AI observes and comments on the user's behavior patterns |
 
 ## Installation
 
 Copy a skill into your project's `.claude/skills/` directory:
 
 ```bash
-git clone https://github.com/eruto-skills/<skill-name>.git
-cp -r <skill-name> /path/to/your-project/.claude/skills/<skill-name>
+npx degit eruto-skills/<skill-name> .claude/skills/<skill-name>
 ```
 
 ## Support
